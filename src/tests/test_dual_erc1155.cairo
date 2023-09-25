@@ -1,7 +1,7 @@
 use array::ArrayTrait;
 use starknet::testing;
 use rules_utils::utils::serde::SerdeTraitExt;
-use rules_utils::utils::partial_eq::SpanPartialEq;
+// use rules_utils::utils::partial_eq::SpanPartialEq;
 
 // locals
 use rules_erc1155::erc1155::interface::IERC1155_ID;
